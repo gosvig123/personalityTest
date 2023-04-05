@@ -18,6 +18,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "__tests__/components/QuestionForm.tests.tsx", "__tests__/components/QuestionForm.tests.tsx", "src/components/QuestionForm.jsx", "src/components/QuestionForm.jsx"],
   "exclude": ["node_modules"]
 }
